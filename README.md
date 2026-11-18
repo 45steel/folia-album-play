@@ -57,4 +57,4 @@ test/mock.test.mjs   25 项断言：分组、置顶、洗牌、循环进出、�
 
 ## 许可
 
-仓库还没放 LICENSE 文件；使用、修改、分发前请先跟作者确认。
+[MIT](LICENSE) © 2026 45steel
