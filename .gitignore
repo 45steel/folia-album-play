@@ -1,0 +1,15 @@
+# 构建产物（zip 由本地脚本打包，不进仓库）
+*.zip
+
+# 调研用的上游源码 / 契约副本
+.ref/
+
+# 调试截图
+crop-button.png
+*.local.png
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

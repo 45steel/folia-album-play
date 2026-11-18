@@ -1,0 +1,10 @@
+{
+  "folium": 1,
+  "id": "album-play",
+  "name": "专辑随机与专辑循环",
+  "version": "0.3.1",
+  "author": "local",
+  "description": "给播放队列加上专辑级随机（整张专辑作为一个单位洗牌）和「循环这张专辑」；提供命令、播放器面板标签页与设置项。",
+  "client": "client.mjs",
+  "permissions": ["playback.control", "playback.queue"]
+}
